@@ -1,0 +1,65 @@
+
+
+body{
+  /* text */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: none;
+  font-weight: normal;
+
+  /* canvas */
+  background-color: #aaa;
+  background-image: none;
+
+  /* spacing */
+  margin:0;
+  padding:10% 20% 300px 40%;
+}
+
+h1, h2, h3, p{
+  color: #ffc8d2;
+  text-align: center;
+  text-decoration: underline;
+  text-transformation: uppercase;
+  font-size: 2em;
+  line-height: 4em;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+em{
+  font-size: 2em;
+}
+p{
+  font-size: 1em;
+  line-height: 1.25em;
+  font-style: italic;
+}
+
+ul{
+  list-style-type: square;
+}
+
+div{
+  align:center;
+  border:1px solid black;
+  display: block;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 75px;
+  background-color: lightblue;
+  width: 300px;
+  height: 200px;
+}
+h4,p{
+  border:1px solid black;
+  display: block;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 75px;
+  background-color: blue;
+  width: 300px;
+  height: 200px;
+}
+w3-myFont{
+  font-family:"cosmic Sans MS",cursive,sans-serif
+}
